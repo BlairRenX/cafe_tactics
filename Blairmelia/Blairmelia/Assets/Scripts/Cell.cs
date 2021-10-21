@@ -5,8 +5,7 @@ using UnityEngine;
 public class Cell : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
-    {
+    void Start() {
         private boolean hasUnit = false;
         private int movementCost = -1; //that is to say, the Cell is inaccessible.
     }
